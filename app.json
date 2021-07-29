@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "justAds",
+    "slug": "justAds",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "justAds"
+}
